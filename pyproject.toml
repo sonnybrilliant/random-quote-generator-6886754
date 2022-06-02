@@ -1,5 +1,8 @@
 [tool.poetry]
 name = "random-quote-generator-6886754"
+packages = [
+    { include = "random_quote_generator" },
+]
 version = "0.1.0"
 description = "my random quote generaror"
 authors = ["Mfana Ronald Conco <ronald.conco@mlankatech.co.za>"]
