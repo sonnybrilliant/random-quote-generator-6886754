@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "random-quote-generator-6886754"
+version = "0.1.0"
+description = "my random quote generaror"
+authors = ["Mfana Ronald Conco <ronald.conco@mlankatech.co.za>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
